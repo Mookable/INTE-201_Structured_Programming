@@ -1,6 +1,6 @@
 # 📌 [INTE 201] Programming 3 (Structured Programming)
 
-This contains Java Programming activities for Programming 3 (Structured Programming.
+This contains Java Programming activities for Programming 3 (Structured Programming)
 
 ## 👤 Student Information
 - Name: Mark Jimuel Consular
