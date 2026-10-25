@@ -53,7 +53,7 @@ public class NestedLoginValidator {
             }
         }
         else {
-            System.out.println("Error: Incorrect Username."); // If user inputted an incorrect username.
+            System.out.println("Error: Username not found."); // If user inputted an incorrect username.
         }
     }
 }
